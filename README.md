@@ -209,27 +209,33 @@ print(classification_report(y_test,predictions))
 
 ### data.head():
 
-![out](out1.png)
+![out1](https://user-images.githubusercontent.com/93427534/204852391-8c62550f-fc35-415f-be75-e3f3911dc580.png)
+
 
 ### x.head():
 
-![out](out2.png)
+![out2](https://user-images.githubusercontent.com/93427534/204852416-96f9e195-8c42-438e-a9ee-afb5a55f0ae2.png)
+
 
 ### y.head():
 
-![out](out3.png)
+![out3](https://user-images.githubusercontent.com/93427534/204852492-7adfc4b6-8125-406b-8630-dfbedb99b007.png)
+
 
 ### Printing the predictions:
 
-![out](out4.png)
+![out4](https://user-images.githubusercontent.com/93427534/204852522-a8c652d3-5b82-4ed6-8c99-467fecfe3a58.png)
+
 
 ### Confusion matrix:
 
-![out](out5.png)
+![out5](https://user-images.githubusercontent.com/93427534/204852530-9a98cd88-bce3-436d-9731-38351638dcb3.png)
+
 
 ### Classification report():
 
-![out](out6.png)
+![out6](https://user-images.githubusercontent.com/93427534/204852569-3eef2d33-2291-47c0-80c6-ac089ab71430.png)
+
 
 ## RESULT :
 
